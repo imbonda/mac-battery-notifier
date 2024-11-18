@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder attributes
+Icon?
+._*
+
+# macOS resource fork
+*.rsrc
+
+# macOS directory files
+.DS_Store?
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# macOS Tags
+*.swp
+.*.swp
+.*.swo
